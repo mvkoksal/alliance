@@ -3,7 +3,6 @@
 **@lliance** is a two-player 2D platformer game, where Red and Blue collaborate across five floors on one screen to reach the exit.
  
 ## Gameplay
-
 - Players progress through **five levels** in the game.  
 - Players automatically fall when there is no floor beneath them.  
 - The objective is to reach the **goal tile** at the bottom level.  
@@ -30,9 +29,13 @@ Players can interact with **buttons** that change parts of the map to help them 
 ### Hazards
 
 - If a player touches tiles of the wrong color or collides with moving objects, they lose.  
-- Press **Space** to restart the game.  
+- Press **Space** to restart the game.
 
-## How to Play
+## Requirements
+- C compiler (clang to use the Makefile)
+- Terminal or command-line interface
+
+## How to Run
 
 To play **@lliance**, run the following commands in your terminal:
 
