@@ -1,5 +1,4 @@
-#define _GNU_SOURCE
-#include <pdcurses.h>
+#include <ncurses.h>
 #include <stdbool.h>
 #include <string.h>
 #include <time.h>
