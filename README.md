@@ -1,6 +1,6 @@
 # @lliance
 
-**@lliance** is a collaborative game where players work together to reach the goal while helping each other along the way.  
+**@lliance** is a collaborative game where players work together to reach the the exit door.
 
 ## Gameplay
 
