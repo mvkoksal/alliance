@@ -1,7 +1,7 @@
 # @lliance
 
-**@lliance** is a collaborative game where players work together to reach the the exit door.
-
+**@lliance** is a two-player 2D platformer game, where Red and Blue collaborate across five floors on one screen to reach the exit.
+ 
 ## Gameplay
 
 - Players progress through **five levels** in the game.  
