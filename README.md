@@ -34,6 +34,7 @@ Players can interact with **buttons** that change parts of the map to help them 
 ## Requirements
 - C compiler (clang to use the Makefile)
 - Terminal or command-line interface
+- ncurses library installed
 
 ## How to Run
 
